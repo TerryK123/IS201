@@ -1,0 +1,43 @@
+h1 {
+    color:#4601cf52;
+    font-size:36pt;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: underline;
+}
+body {
+    background-color: rgb(211, 252, 255);
+    display:block;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 50pt;
+    margin-right: 50pt;
+    margin top: 20pt;
+    margin-bottom: 20pt;
+    font-size: 14pt;
+    size-adjust: 100%;
+}
+caption {
+    text-decoration: gray;
+    text-anchor: start;
+    display: block;
+    font-size: 28pt;
+    text-align:center;
+}
+.footerclass {
+    background-color:rgba(201, 194, 194, 0.884);
+    text-align:center;
+    size-adjust: 100%;
+}
+button {
+    color:hotpink;
+}
+nav {
+    text-align: justify;
+    size-adjust: 100%;
+}
+#navbarResponsive {
+    text-align: right;
+}
+
+

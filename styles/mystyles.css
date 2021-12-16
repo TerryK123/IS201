@@ -1,0 +1,67 @@
+
+body {
+    background-image:url("../images/images/Graybackground.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:rgb(211, 252, 255);
+}
+h1 {
+    text-decoration: underline;
+    color:rgb(211, 252, 255);
+    text-shadow: floralwhite;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.mb-4 {
+    text-align: center;
+}
+img {
+    width: 25%;
+    text-align:center;
+    margin: auto;
+    margin-bottom: 5px;
+    border: rgb(211, 252, 255) 2px solid;
+    padding: 3px;
+}
+a {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:rgb(211, 252, 255);
+}
+.ContactInfo {
+    text-align: center;
+    color:rgb(211, 252, 255);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+li {
+    color:rgb(211, 252, 255);
+}
+p {
+    color:rgb(211, 252, 255);
+}
+.links {
+    text-align: center;
+    color:rgb(211, 252, 255);
+}
+.BYUlink {
+    color:rgb(211, 252, 255);
+    text-align: center;
+}
+.Resumelink{
+    color:rgb(211, 252, 255);
+    text-align: left;
+}
+.Resumeheading {
+    color:rgb(211, 252, 255);
+    text-align:left;
+    text-decoration: normal;
+    font-size:20pt;
+}
